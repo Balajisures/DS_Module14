@@ -1,5 +1,5 @@
 # Ex6 Dequeue Elements from Circular Queue
-## DATE: 24.04.2025
+## DATE: 25.04.2025
 ## AIM:
 To write a C program to delete three elements from the filled circular queue.
 
@@ -14,8 +14,8 @@ To write a C program to delete three elements from the filled circular queue.
 ```
 /*
 Program to delete three elements from the filled circular queue
-Developed by: Cynthia Mehul
-RegisterNumber: 212223240020
+Developed by: BALAJI S
+RegisterNumber: 212223040024
 */
 
 int deQueue() {
